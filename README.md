@@ -51,18 +51,18 @@ The pipeline is divided into structured phases, demonstrating both theoretical u
    cd digit-recognition-pipeline
 
 
-Set up your virtual environment:
+2. **Set up your virtual environment:**
 
 Bash
 python -m venv digit_env
 source digit_env/bin/activate  # On Windows use: digit_env\Scripts\activate
-Install the required dependencies:
 
+3. **Install the required dependencies:**
 Bash
 pip install torch torchvision numpy matplotlib ipywidgets ipycanvas jupyter
-Launch the Notebook:
 
+4. **Launch the Notebook:**
 Bash
 jupyter notebook Digit_Recognition_APP_upgraded.ipynb
 
-Note: Ensure you run all cells sequentially. The interactive widget at the end requires a live kernel to process drawing events.
+**Note:** Ensure you run all cells sequentially. The interactive widget at the end requires a live kernel to process drawing events.
