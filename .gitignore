@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+digit_env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets and large model weights
+*.h5
+*.pt
+*.pth
