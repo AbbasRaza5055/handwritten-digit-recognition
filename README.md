@@ -58,10 +58,12 @@ python -m venv digit_env
 source digit_env/bin/activate  # On Windows use: digit_env\Scripts\activate
 
 3. **Install the required dependencies:**
+   
 Bash
 pip install torch torchvision numpy matplotlib ipywidgets ipycanvas jupyter
 
 4. **Launch the Notebook:**
+   
 Bash
 jupyter notebook Digit_Recognition_APP_upgraded.ipynb
 
