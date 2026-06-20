@@ -13,7 +13,7 @@ Rather than relying purely on modern frameworks, this project takes an **enginee
 ## Interactive Real-Time Inference
 *(Below is a demonstration of the live `ipycanvas` widget feeding native 28x28 arrays directly into the trained PyTorch CNN)*
 
-![Interactive Demo](assets/aaa.gif)
+![Interactive Demo](assets/digit_recognizer.gif)
 
 ## Technical Architecture & Workflow
 
